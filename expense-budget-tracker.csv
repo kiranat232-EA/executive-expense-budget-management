@@ -1,0 +1,19 @@
+Date,Expense ID,Category,Description,Budget,Actual Expense,Variance,Payment Status,Approval Status,Department,Cost Center
+2026-01-05,EXP-001,Travel,Executive flight booking,120000,114500,5500,Paid,Approved,Executive Office,CC-EO-001
+2026-01-12,EXP-002,Accommodation,Leadership hotel stay,65000,61800,3200,Paid,Approved,Executive Office,CC-EO-001
+2026-01-18,EXP-003,Ground Transport,Airport and local transfers,18000,16200,1800,Paid,Approved,Executive Office,CC-EO-001
+2026-02-03,EXP-004,Travel,Executive flight booking,135000,129500,5500,Paid,Approved,Executive Office,CC-EO-001
+2026-02-10,EXP-005,Meetings,Leadership meeting expenses,28000,25400,2600,Paid,Approved,Executive Office,CC-EO-002
+2026-02-17,EXP-006,Client Engagement,Client meeting and hospitality,42000,39500,2500,Paid,Approved,Business Operations,CC-BO-001
+2026-03-04,EXP-007,Travel,Executive flight booking,110000,118500,-8500,Pending,Under Review,Executive Office,CC-EO-001
+2026-03-11,EXP-008,Accommodation,Leadership hotel stay,70000,66400,3600,Paid,Approved,Executive Office,CC-EO-001
+2026-03-19,EXP-009,Ground Transport,Airport and local transfers,20000,17600,2400,Paid,Approved,Executive Office,CC-EO-001
+2026-04-02,EXP-010,Travel,Executive flight booking,125000,121000,4000,Paid,Approved,Executive Office,CC-EO-001
+2026-04-09,EXP-011,Events,Leadership offsite support,85000,79300,5700,Paid,Approved,Executive Office,CC-EO-003
+2026-04-21,EXP-012,Communication,Executive communication services,15000,13200,1800,Pending,Submitted,Executive Office,CC-EO-002
+2026-05-06,EXP-013,Travel,Executive flight booking,140000,133500,6500,Paid,Approved,Executive Office,CC-EO-001
+2026-05-15,EXP-014,Accommodation,Leadership hotel stay,72000,68900,3100,Paid,Approved,Executive Office,CC-EO-001
+2026-05-27,EXP-015,Client Engagement,Client meeting and hospitality,45000,47100,-2100,Pending,Under Review,Business Operations,CC-BO-001
+2026-06-03,EXP-016,Travel,Executive flight booking,130000,126500,3500,Paid,Approved,Executive Office,CC-EO-001
+2026-06-12,EXP-017,Meetings,Leadership meeting expenses,30000,27600,2400,Paid,Approved,Executive Office,CC-EO-002
+2026-06-24,EXP-018,Ground Transport,Airport and local transfers,22000,19800,2200,Pending,Submitted,Executive Office,CC-EO-001
